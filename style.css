@@ -1,0 +1,26 @@
+.accordion-button{
+    background-color: rgb(42, 165, 42);
+    color: rgb(196, 255, 255);
+}
+.accordion-button:not(.collapsed){
+    background-color: rgb(92, 228, 79);
+    color: black;
+}
+.accordion-body{
+    background-color: rgb(79, 238, 140);
+    color: black;
+}
+
+body{
+    background-color: rgb(231, 243, 175);
+}
+.offcanvas{
+    background-color: rgb(2, 134, 13);
+    color: aliceblue;
+}
+.navbar-toggler{
+    background-color: rgb(5, 150, 29);
+}
+.navbar-brand{
+    color: rgb(2, 71, 14);
+}
